@@ -2,7 +2,7 @@
 adhamo@ucdavis.edu | 818-813-1278
 
 
-**skills**
+**Skills**
 
 Design Tools: Quartus, OrCAD
 Languages: C++, MATLAB, Python
